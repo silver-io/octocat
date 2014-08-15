@@ -1,2 +1,1 @@
-Explain what a branch is, in your own words.
 Branches help us develop features isolated from each other.
